@@ -11,5 +11,7 @@ The primary databases and SQL languages I am most familiar with are MySQL and Bi
 Additionally, this is meant as a starting point and currently has no functionality unless using MySQL locally and with the CLI. In the future, I may decide to add additional features but we will see.
 
 Happy Exploring! 
+
 Sincerely, 
+
 Tera
