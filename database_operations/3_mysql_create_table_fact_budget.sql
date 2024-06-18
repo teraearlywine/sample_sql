@@ -1,5 +1,5 @@
--- Create Fact Table for Budget
-CREATE TABLE IF NOT EXISTS fact_budget (
+-- Create database fact table that contains budget data 
+CREATE TABLE IF NOT EXISTS dev.fact_budget (
     budget_id INT PRIMARY KEY AUTO_INCREMENT,
     category_id INT,
     classification_id INT,
